@@ -23,4 +23,4 @@ An extensible LaTeX thesis template maintained by members of the Lundeen Quantum
 
 ## Acknowledgements
 
-This repository is based on the University of Ottawa LaTeX thesis template developed by Wail Gueaieb and adapted from an earlier University of Waterloo thesis template.****
+This template was adapted by Manuel Ferrer for the Lundeen Quantum Photonics Laboratory from the unofficial University of Ottawa LaTeX thesis template developed by Wail Gueaieb, which was based on an earlier University of Waterloo thesis template.
