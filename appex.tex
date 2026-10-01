@@ -1,0 +1,45 @@
+% An appendix
+\chapter[Numerical calculations]{Numerical calculation of something}
+\label{AppendixA}
+% Tip 4: Example of how to get a shorter chapter title for the Table of Contents 
+%======================================================================
+In this section, we provide the ... notebooks used for the calculation of... 
+
+\section{Code 1: Mathematica version}
+\subsection{Main code}
+
+
+
+\noindent\textcolor{titlecolor2}{\textbf{\textsf{Definition }}}
+\begin{lstlisting}[extendedchars=true,language=Mathematica]
+(* Plot something easy *) 
+intensity[x_] := Exp[-x^2]
+
+Plot[intensity[x], {x, -3, 3}]
+
+\end{lstlisting}
+
+
+\section{Python}
+\subsection{Main code }
+\begin{lstlisting}[language=Python]
+import numpy as np
+import matplotlib.pyplot as plt
+
+def intensity(x):
+    return np.exp(-x**2)
+
+x = np.linspace(-3, 3, 300)
+plt.plot(x, intensity(x))
+plt.show()
+\end{lstlisting}
+%======================================================================
+\chapter{Supplementary Materials: SM1}
+\label{AppendixB}
+\includepdf[pages=-,pagecommand={}]{PDF/SM1.pdf} 
+
+
+%======================================================================
+\chapter{Supplementary Materials: SM2}
+\label{AppendixC}
+\includepdf[pages=-,pagecommand={}]{PDF/SM2.pdf} 
