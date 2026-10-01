@@ -1,15 +1,5 @@
-Wail Gueaieb 
-Last updated: 2020-06-24
-
-This package comes with NO WARRANTY and NO SUPPORT! You may use it at YOUR OWN
-RISK!!!
-
-This "ready-made thesis template" is meant to help the University of Ottawa's
-graduate students to write their theses in LaTeX. It is a modified version of
-the University of Waterloo's template. It is NOT an official release of the University of Ottawa.
-Nevertheless, it is made to satisfy the thesis' technical standards set by the
-University of Ottawa at:
-http://web5.uottawa.ca/www3/fespfgps/theses/do-en-2point5num1.htm
+Manuel Ferrer 
+Last updated: October, 2026
 
 
 Package Content
