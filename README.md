@@ -1,8 +1,17 @@
 # Lundeen Lab LaTeX Thesis Template
 
-An extensible LaTeX thesis template maintained by members of the Lundeen Quantum Photonics Laboratory at the University of Ottawa.
+## Disclaimer
 
-> This is an unofficial template. Students are responsible for verifying that their thesis complies with the current requirements of the University of Ottawa and their academic program.
+This is an unofficial University of Ottawa thesis template. Students
+are responsible for verifying the current requirements of their
+academic program.
+
+The template includes dummy text, fictional publications, sample code,
+and placeholder illustrations, some generated using ChatGPT. These
+examples are provided solely to demonstrate formatting and layout;
+they are not scientific claims or genuine publication records.
+
+Replace all example content with your own material before submission.
 
 ## Getting Started
 
