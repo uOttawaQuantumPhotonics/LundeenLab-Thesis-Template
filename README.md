@@ -21,6 +21,17 @@ An extensible LaTeX thesis template maintained by members of the Lundeen Quantum
 - `bibliography/` — Bibliography files
 - `private/` — Internal formatting files
 
+## Features
+
+- Separate chapter files for straightforward editing.
+- Examples of article-based thesis chapters.
+- A statement of originality and collaborative contributions.
+- A sample list of publications.
+- Embedded publication PDFs using the `\Publication{title}{PDF path}` command.
+- Mathematica and Python code listings.
+- Appendices containing supplementary-material PDFs.
+- Placeholder text and figures demonstrating the document structure.
+
 ## Acknowledgements
 
 This template was adapted by Manuel Ferrer for the Lundeen Quantum Photonics Laboratory from the unofficial University of Ottawa LaTeX thesis template developed by Wail Gueaieb, which was based on an earlier University of Waterloo thesis template.
